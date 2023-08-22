@@ -18,13 +18,13 @@ void sub()
 {
 	System.out.println("default method");
 }
-	public static void main(String[] args) {
+	/*public static void main(String[] args) {
 	
 		AccessmodifierTypes a= new AccessmodifierTypes();
 		a.sum();
 		a.add();
 		a.print();
 		a.sub();
-	}
+	}*/
 
 }
